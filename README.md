@@ -4,7 +4,6 @@
 <h1 align="center"></a> 
 <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=0770FFFD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Studen" height="50"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=0770FFFD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Student)](https://git.io/typing-svg)
 
 <!--
 **AirstaNs/AirstaNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
