@@ -5,9 +5,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=0770FFFD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Studen" height="50"/></h1>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirstaNs&hide=contribs,prs)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true)
+
+
+
 
 <!--
 **AirstaNs/AirstaNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
