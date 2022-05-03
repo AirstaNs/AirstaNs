@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/AirstaNs" target="_blank">AirstaNs</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=000000FD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Student)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=0770FFFD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Student)](https://git.io/typing-svg)
 
 <!--
 **AirstaNs/AirstaNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
