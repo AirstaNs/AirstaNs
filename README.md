@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AirstaNs&hide=contribs,prs)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true)
+
 <!--
 **AirstaNs/AirstaNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
