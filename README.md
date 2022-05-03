@@ -7,6 +7,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=blue-green)
 
 
 
