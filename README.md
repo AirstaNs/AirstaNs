@@ -15,7 +15,7 @@
 
 ![](https://img.shields.io/badge/java%20-11-orange)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/Balandina-o/kyrsovaya2?color=d)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Balandina-o/kyrsovaya2?color=d)
 <!--
 **AirstaNs/AirstaNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
