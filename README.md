@@ -4,7 +4,7 @@
 <h1 align="center"></a> 
 <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=0770FFFD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Student" height="50"/></h1>
 
-#Statistics
+##Statistics
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula)
 
