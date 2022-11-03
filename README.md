@@ -5,12 +5,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=0770FFFD&background=FFE747&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&multiline=true&lines=Applied+Computer+Science+Student" height="50"/></h1>
 
 ## Statistics
-<table height="100%" width="100%">
+<table height="100%" width="100%" style= "border-block:0 solid #ffffff;">
   <tr>
     <td>
-<img  src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula&hide_border=true" style="width:100%; height:100%;"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula" style="width:100%; height:100%;"/>
 </td>
- <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&hide_border=true&layout=compact&langs_count=8" style="width:100%; height:100%;"/> </td>
+ <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&" style="width:100%; height:100%;"/> </td>
   </tr>
  </table>
 
