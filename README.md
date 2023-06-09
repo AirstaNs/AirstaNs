@@ -8,15 +8,22 @@
 
 
 <h2 align="center">
-Statistics
-<br>
-<img  src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula" style="width:32%; height:32%;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&" style="width:30%; height:30%;"/>
+  Statistics
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula" style="width: 50%; height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&layout=compact" style="width: 40%; height: 180px;">
 </h2>
 
+
+<div align="center">
+
+<a href="">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
+</div>
 
 <h2 align="center">
     Views
     <br>
     <img src="https://komarev.com/ghpvc/?username=AirstaNs"/>
 </h2>
+
+
