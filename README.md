@@ -11,15 +11,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula" style="width: 45%; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&layout=compact" style="width: 40%; height: 200px;">
 
+<a href="">![LeetCode Stats](https://leetcard.jacoblin.cool/AirstaNs?theme=nord)</a>
+
 <a href="">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
 
 </h2>
 
 
-<h2 align="center">
-    Views
-    <br>
-    <img src="https://komarev.com/ghpvc/?username=AirstaNs"/>
-</h2>
 
 
