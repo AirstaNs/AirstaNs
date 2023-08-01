@@ -17,7 +17,7 @@
 
  💻 Codewars:
  <br>
-<a href="" style="display: block; margin-top: 10px;">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
+<a href="" style="display: block; margin-top: 20px;">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
 
 </h2>
 
