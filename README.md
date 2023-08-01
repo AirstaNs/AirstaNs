@@ -16,11 +16,10 @@
   <img src="https://leetcard.jacoblin.cool/AirstaNs?theme=nord&font=Raleway" style="width: 40%; height: 200px;">
 
  💻 Codewars:
-    <br>
-<a href="">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
+ <br>
+<a href="" style="display: block; margin-top: 10px;">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
 
 </h2>
-
 
 
 
