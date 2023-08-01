@@ -6,12 +6,14 @@
 
 
 <h2 align="center">
-  Statistics
+️ ⚙️ GitHub статистика:
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula" style="width: 45%; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&layout=compact" style="width: 40%; height: 200px;">
 
-<a href="">![LeetCode Stats](https://leetcard.jacoblin.cool/AirstaNs?theme=nord)</a>
+  <img src="https://leetcard.jacoblin.cool/AirstaNs?theme=nord&font=Raleway" style="width: 40%; height: 200px;">
+
+[//]: # (<a href="">![LeetCode Stats]&#40;https://leetcard.jacoblin.cool/AirstaNs?theme=nord&#41;</a>)
 
 <a href="">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
 
