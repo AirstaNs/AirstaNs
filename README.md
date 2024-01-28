@@ -11,10 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AirstaNs&show_icons=true&theme=dracula" style="width: 45%; height: 200px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AirstaNs&theme=dracula&layout=compact" style="width: 40%; height: 200px;">
 
-️ 💡 Leetcode:
-
-  <img src="https://leetcard.jacoblin.cool/AirstaNs?theme=nord&font=Raleway" style="width: 45%; height: 200px;">
-
  💻 Codewars:
  <br>
 <a href="" style="display: block; margin-top: 10px;">[![Profile badge](https://www.codewars.com/users/AirstaNs/badges/large)](https://www.codewars.com/users/AirstaNs)</a>
